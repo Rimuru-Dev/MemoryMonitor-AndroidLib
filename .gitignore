@@ -1,0 +1,63 @@
+# Gradle
+.gradle/
+build/
+
+# Local configuration file (SDK location, etc.)
+local.properties
+
+# Log and system files
+*.log
+*.idea/
+*.iml
+*.hprof
+
+# Android Studio specific
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Build output
+/app/build/
+/build/
+/captures/
+/outputs/
+/bin/
+
+# Proguard
+proguard-rules.pro~
+
+# Generated files
+generated/
+*.apk
+*.aar
+*.ap_
+*.dex
+*.class
+*.so
+*.jar
+
+# IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Miscellaneous
+*.swp
+*.swo
+*.bak
+*.tmp
+*.old
+*.orig
+
+# Tests
+/app/src/test
+/app/src/androidTest
